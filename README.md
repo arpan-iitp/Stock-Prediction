@@ -12,6 +12,6 @@ Users can input a specific date and get a prediction of the stock value for that
 
 ### screenshot of the working:
 
-![image](<img src="https://drive.google.com/uc?id=1PeIxFt5H83BEQHzzuAueR5URFbaiw-mn" alt="Screenshot of the working" style="width:800px; height:auto;">)
+<img src="https://drive.google.com/uc?id=1PeIxFt5H83BEQHzzuAueR5URFbaiw-mn" alt="Screenshot of the working" style="width:800px; height:auto;">
 
 ### make sure to have properly installed gradio for it to work
